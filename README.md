@@ -3,16 +3,17 @@ https://talinkeshesh.github.io/comp484-hw2/
 
 
 
-Determine a structuring strategy.
-             a.	Open the structure.htm file and explore the page structure and ARIA roles. Write out the document outline, and how structural tags like aside, article, nav, and section are being used.
-             b.	Examine how semantic tags like the header, footer, and main elements are used.
-             c. review slide #7 of the lecture slides.Create a diagram of how the tags would look like in the HW website.Take a screenshot of the diagram and add it to the images folder.
-             d. review slide #10 of the lecture slides. Use the website provided or other alternative options to produce a document outline. Take a screenshot of the outline and add it to the images folder.
+1.	Determine a structuring strategy.
+             a.	Applies to: structure.htm
+             b.	Open the structure.htm file and explore the page structure and ARIA roles. Write out the document outline, and how structural tags like aside, article, nav, and section are being used.
+             c.	Examine how semantic tags like the header, footer, and main elements are used.
+             d. review slide #7 of the lecture slides.Create a diagram of how the tags would look like in the HW website.Take a screenshot of the diagram and add it to the images folder.
+             e. review slide #10 of the lecture slides. Use the website provided or other alternative options to produce a document outline. Take a screenshot of the outline and add it to the images folder.
 
 
 
 1.
-    a.
+    b.
 <header role="banner">
 Holds the site heading (“Comp 484”), the page title (“Structuring Pages”), and the primary navigation.
 
@@ -51,7 +52,7 @@ aside: used for related content (the “W3C Warning” callout), which belongs w
 
 
 
-    b.
+    c.
 <header role="banner">: Top of the page; contains the site title (H1), page title (H2), and the main navigation (<nav>).
 <main role="main">: Holds the page’s primary content.
 <footer role="contentinfo">: Bottom of the page; contains footer/site info (CSUN link/address).
