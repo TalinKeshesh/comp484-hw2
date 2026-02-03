@@ -51,7 +51,7 @@ aside: used for related content (the “W3C Warning” callout), which belongs w
 
 
 
-
+1.
     c.
 <header role="banner">: Top of the page; contains the site title (H1), page title (H2), and the main navigation (<nav>).
 <main role="main">: Holds the page’s primary content.
