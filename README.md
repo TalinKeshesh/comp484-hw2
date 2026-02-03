@@ -13,7 +13,7 @@ https://talinkeshesh.github.io/comp484-hw2/
 
 
 1.
-    b.
+   b.
 <header role="banner">
 Holds the site heading (“Comp 484”), the page title (“Structuring Pages”), and the primary navigation.
 
@@ -52,7 +52,7 @@ aside: used for related content (the “W3C Warning” callout), which belongs w
 
 
 1.
-    c.
+  c.
 <header role="banner">: Top of the page; contains the site title (H1), page title (H2), and the main navigation (<nav>).
 <main role="main">: Holds the page’s primary content.
 <footer role="contentinfo">: Bottom of the page; contains footer/site info (CSUN link/address).
